@@ -1,0 +1,6 @@
+{
+    "Auth": true,
+    "Course": true,
+    "Category": true,
+    "Lesson": true
+}
